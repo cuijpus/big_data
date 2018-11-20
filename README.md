@@ -26,3 +26,17 @@
 ## Hardware                                                                                                                                                                                   
 ## GPU DBs   
 
+# Analytics                                                                                                                                                                                  
+## Data Analytics Platform （数据分析平台）                                                                                                         
+## Data Science Platform （数据科学平台？）                                                                                                         
+## BI Platform （商业智能）                                                                                                                                              
+## Visualization （可视化）                                                                                                                                              
+## Machine Learning （机器学习）                                                                                                                                 
+## Computer Vision （计算机视觉）                                                                                                                              
+## Horizontal AI （水平AI？通用平台？）                                                                                                                  
+## Speech & NLP （语音&自然语言处理）                                                                                                                  
+## Search （查找）                                                                                                                                    
+## Log Analytics （日志分析）                                                                                                                         
+## Social Analytics （社交分析）                                                                                                                      
+## Web/Mobile/Commerce Analytics （网页/手机/电子商务分析） 
+
