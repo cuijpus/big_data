@@ -106,6 +106,108 @@ FiscalNote的价值在于，既能帮助客户在事前分析各种政策和洞�
 >>[创新样本之一：陈一舟杨致远为何投资FiscalNote？](https://www.sohu.com/a/73082164_188923)<br>
 >>[FiscalNote CEO Tim Hwang: 打造人工智能时代的“彭博社”](http://tech.sina.com.cn/roll/2017-06-28/doc-ifyhrttz1507969.shtml)
 
+[GridSmart](https://gridsmart.com/) <br>
+
+产品概述 Product Overview
+
+1.智能检测
+
+(1) 一个路口一个360度单摄像头方案
+
+(2) 便捷安全的安装
+
+(3) 先进算法
+
+(4) 3D检测模型/车辆追踪
+
+(5) 自动对焦
+
+(6) 界面简单易用
+
+2.软件解决方案
+
+(1) 升级容易
+
+功能扩展
+
+解决了夜晚、阴影和阻挡等难题
+
+3.优势
+
+(1)一个系统代理多个系统
+
+(2)帮助城市管理部门优化交通
+
+(3)减少交通设施维护成本，减少城市交通设施建设维护给交通带来的不便，减少给城市景观带来的破坏
+
+(4)提高城市交通设施安装带来的不安全性
+
+(5)综合成本优势
+
+ 
+
+产品功能 Product Funtion
+
+ 
+
+1.替代线圈优化交通
+
+2.交通信息采集
+
+3.视频监控
+
+4.控制中心远程设置
+
+5.路段路况显示
+
+6.让城市路口变得更整洁
+
+7.让道路设置更快速，安全
+
+ 
+
+技术指标 Technical Specifications
+
+1.摄像机：
+
+360度鱼眼广角镜头
+
+ POE供电
+
+ CMOS摄像头
+
+根据光线自动保持对焦
+
+防抖特性获得稳定的影像
+
+数字全景影像 PTZ(平展、旋转、缩放）
+
+100% 全密封, 惰性气体填充
+
+2.处理器：
+
+负责对接入的360度全景的视频信号进行实时、动态的智能化分析。
+
+ Windows XP 嵌入式系统
+
+24针并行光偶隔离输入
+
+24针并行光偶隔离输出
+
+2个网络接口
+
+摄像机接口
+
+USB接口
+
+VGA接口 
+
+![gridsmart camera](http://imagecn.gasgoo.com/moblogo/News/UEditor/image/20181007/6367447027458368074769037.jpg)<br>
+
+Single Camera solution for traffic system:<br>
+[single](https://gridsmart.com/wp-content/uploads/2018/08/bell-cam-angled.png)<br>
+
+
 
 ## Real Estate （房地产行业）                                                                                                                             
 ## Finance-Investing （投资）                                                                                                                             
