@@ -153,7 +153,29 @@ Single Camera solution for traffic system:<br>
 [ideas](https://www.youtube.com/watch?v=YMvNxCct3Pg)<br>
 
 
-## Real Estate （房地产行业）                                                                                                                             
+## Real Estate （房地产行业）
+
+[Redfin](https://www.redfin.com/)<br>
+在线经纪模式：Sell for more, pay as low as a 1% listing fee
+本质上，Redfin是E2E电商（EndtoEnd），是传统经纪行业的真正颠覆者；形式上，Redfin是在线媒体和经纪公司的联姻，是一个无缝对接的结合体，可以说是一个“双面怪物”。<br>
+
+>>[Redfin如何变革房地产经纪行业](http://news.ifeng.com/a/20170829/51795809_0.shtml)<br>
+>>[“二手房电商”之父Redfin上市](http://www.ebrun.com/20170807/241467.shtml)<br>
+>>[Redfin—正在发展中的垂直电商模型](https://baijiahao.baidu.com/s?id=1568830406210442&wfr=spider&for=pc)<br>
+
+[OpenDoor](https://www.opendoor.com/)<br>
+Opendoor运用机器学习模型，参考类似房屋的价格这类公共数据以及地板质量这类主观标准，预测房产价值和房市风险，最终确定报价。<br>
+
+Opendoor直接从售房者手中购房，再卖出去，并非充当卖房中介的角色，彻底消除了房屋买卖过程中的不确定因素，大大缩减了交易时间。该公司从售房者手中购买房屋时，会收取占出售价格7%-8%的佣金。尽管Opendoor声称，能替售房者省去一系列麻烦琐事，但无可否认的是，私房业主可能需要支付更多的佣金，往往会比聘请中介还要贵上几千美元。与此同时，同行竞争对手正在试图通过提供更加低廉的佣金，抢占市场份额。
+
+>>[美国初创企业Opendoor正在与软银进行融资谈判](https://baijiahao.baidu.com/s?id=1603754368958879755&wfr=spider&for=pc)<br>
+Opendoor首席执行官Eric Wu拒绝就Recode就未来资金谈判发表评论，但他承认他的商业模式需要大量资金。
+
+[VTS](http://www.vts.com/)<br>
+Reduce deal cycle time by 41% with VTS：租赁
+![](https://on.vts.com/rs/811-SJQ-803/images/landlord-pipeline.png)<br>
+
+
 ## Finance-Investing （投资）                                                                                                                             
 ## Finance-Lending （借贷）                                                                                                                               
 ## Insurance （保险）                                                                                                                                     
