@@ -51,3 +51,18 @@
 ## Enterprise Productivity （生产效率）                                                                                
 ## Back Office Automation （后台自动化）                                                                               
 ## Security （安全）
+
+# Applications-Industry (面向行业的应用)                                                                                                               
+## Advertising （广告行业）                                                                                                                               
+## Education （教育行业）                                                                                                                                 
+## Government （政府）                                                                                                                                    
+## Real Estate （房地产行业）                                                                                                                             
+## Finance-Investing （投资）                                                                                                                             
+## Finance-Lending （借贷）                                                                                                                               
+## Insurance （保险）                                                                                                                                     
+## Healthcare （卫生保健）                                                                                                                                
+## Life Sciences （生命科学？）                                                                                                                           
+## Transportation （交通）                                                                                                                                
+## Agriculture （农业）                                                                                                                                   
+## Commerce （电子商务）                                                                                                                                  
+## Industrial                                                                                                                                           
