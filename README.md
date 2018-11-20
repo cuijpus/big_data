@@ -54,7 +54,14 @@
 
 # Applications-Industry (面向行业的应用)                                                                                                               
 ## Advertising （广告行业）                                                                                                                               
-## Education （教育行业）                                                                                                                                 
+## Education （教育行业）
+[英语流利说](https://www.liulishuo.com/)<br>
+[英语流利说】是一家中国知名的“AI+教育”上市公司，为个人、企业提供专业英语学习解决方案。即刻体验人工智能教学，让你忍不住，开口说英语！
+
+>>[百度百科：流利说](https://baike.baidu.com/item/%E8%8B%B1%E8%AF%AD%E6%B5%81%E5%88%A9%E8%AF%B4/7418745?fr=aladdin)<br>
+>>[英语流利说：像游戏闯关一样练口语](https://baike.baidu.com/tashuo/browse/content?id=d44f4524a03957abe2205ca1&lemmaId=&fromLemmaModule=pcBottom)<br>
+>>[专注AI+的英语流利说终于上市，其为何起个大早赶个晚集 ](https://baike.baidu.com/tashuo/browse/content?id=07a8754d0f5ee59367449695&lemmaId=&fromLemmaModule=pcBottom)<br>
+
 ## Government （政府）                                                                                                                                    
 ## Real Estate （房地产行业）                                                                                                                             
 ## Finance-Investing （投资）                                                                                                                             
