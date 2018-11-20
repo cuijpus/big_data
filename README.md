@@ -66,3 +66,16 @@
 ## Agriculture （农业）                                                                                                                                   
 ## Commerce （电子商务）                                                                                                                                  
 ## Industrial                                                                                                                                           
+
+# Open Source 
+## Frameworks  
+## Query/Data Flow                                                                                                                                                                 
+## Data Access                                                                                                                                                                     
+## Coordination                                                                                                                                                                    
+## Streaming                                                                                                                                                                       
+## Stat Tools                                                                                                                                                                      
+## AI/Machine Learning/Deep Learning                                                                                                                          
+## Search                                                                                                                                                     
+## Logging &Monitoring                                                                                                                                        
+## Visualization                                                                                                                                              
+## Collaboration
