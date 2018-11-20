@@ -144,6 +144,15 @@ Single Camera solution for traffic system:<br>
 >>[LiveStories为1,000万美元组织，分析和可视化分散的公民数据](http://baijiahao.baidu.com/s?id=1573473837500082&wfr=spider&for=pc)<br>
 ![With fully customizable visualizations](https://static1.squarespace.com/static/55e61d62e4b0df4b0ce3dc61/5b90405c352f533ad537880c/5b90405c352f533ad5378811/1536257641708/Screen+Shot+2018-09-04+at+11.13.05+AM.png?format=500w)<br>
 
+
+[smartprocure](https://www.smartprocure.us/)<br>
+
+[StreetLightData](https://www.streetlightdata.com/)<br>
+
+[OpenDataSoft](https://www.opendatasoft.com/) <br>
+[ideas](https://www.youtube.com/watch?v=YMvNxCct3Pg)<br>
+
+
 ## Real Estate （房地产行业）                                                                                                                             
 ## Finance-Investing （投资）                                                                                                                             
 ## Finance-Lending （借贷）                                                                                                                               
