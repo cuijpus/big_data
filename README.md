@@ -40,3 +40,14 @@
 ## Social Analytics （社交分析）                                                                                                                      
 ## Web/Mobile/Commerce Analytics （网页/手机/电子商务分析） 
 
+# Applications-Enterprise （面向企业的应用）                                                                           
+## Sales（销售）                                                                                                       
+## Marketing-B2B （营销）                                                                                              
+## Marketing-B2C                                                                                                     
+## Customer Service （客户服务）                                                                                       
+## Human Capital （人力资源）                                                                                          
+## Legal （法律）                                                                                                      
+## Finance （财务）                                                                                                    
+## Enterprise Productivity （生产效率）                                                                                
+## Back Office Automation （后台自动化）                                                                               
+## Security （安全）
