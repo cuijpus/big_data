@@ -96,6 +96,17 @@ OpenGov是美国政府税收开支信息公开平台，让用户通过该平台�
 计算机辅助调度CAD:<br>
 ![CAD](https://47t5sq3iaz8y3wvd1x3flpuw-wpengine.netdna-ssl.com/wp-content/uploads/2018/08/FirstResponder.png) <br>
 
+[FiscalNote](https://fiscalnote.com/) <br>
+FiscalNote的商业模式和选举、民意有关。<br>
+该公司使用数据挖掘软件和人工智能技术预测立法机构的投票结果，从而判断某些议案能否通过。该公司的客户包括投资银行摩根大通、软件公司VMware和专车应用Uber。<br>
+“FiscalNote收集公共数据来源，获取现在与尚未决议的州立法信息，进而判断某一项条例草案是否能通过投票。FiscalNote的客户主要是企业级公司与组织，FiscalNote为其商业模式与产品预测可能会遇到的挑战与机遇。”Tim Hwang说。<br>
+
+FiscalNote的价值在于，既能帮助客户在事前分析各种政策和洞见，又能帮助客户找到支持或反对者的源头，这显然有助于客户最短时间内了解真相。<br>
+
+>>[创新样本之一：陈一舟杨致远为何投资FiscalNote？](https://www.sohu.com/a/73082164_188923)<br>
+>>[FiscalNote CEO Tim Hwang: 打造人工智能时代的“彭博社”](http://tech.sina.com.cn/roll/2017-06-28/doc-ifyhrttz1507969.shtml)
+
+
 ## Real Estate （房地产行业）                                                                                                                             
 ## Finance-Investing （投资）                                                                                                                             
 ## Finance-Lending （借贷）                                                                                                                               
