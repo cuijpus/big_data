@@ -70,9 +70,11 @@ Knewton 的核心产品是自适应学习工具，目标是为学生提供预测
 
 [KidAdaptive](http://www.kidaptive.com/)<br>
 Kidaptive:儿童个性化教育，学且知乐Kidaptive公司致力于ALP自适应学习平台的创建，可以完成对孩子知识程度的考察和测算。ALP自适应学习平台通过强大的技术支持并运用发展心理学的相关知识，分析孩子的认知阶段，为父母了解孩子在与学习相关的情景中学到了什么提供便利。与此同时，该公司也在积极开发Hodoo English产品（核桃英语，简称“核桃”。它的构成如下：核桃英语=网游（MMOPRG）+ 英语口语 + 定制型学习（ALP）），使家长得以激发孩子在学习时的热情与活力，为孩子提供只属于他自己的学习方案，使孩子们在玩乐中学习。
+![KidAdaptive](http://www.kidaptive.com/assets/pages/home/banner.svg)<br>
 
 [panorama education](https://www.panoramaed.com/)<br>
 Panorama Education提供面向小学、初中和高中学生和教师的调查，评估他们的社交技能、情感发展和家庭参与指标。这些问卷的目的是深入研究学生的成长：学生如何在学习环境中发展，以及哪些因素在帮助(或阻止)了他们在学业上的发展。通过对学生的学术数据进行配对调查，Panorama希望学校能对他们的学生有一个整体的印象，并能更好地为他们服务。
+![老师可以查看每个学生的学习情况](https://panorama-www.s3.amazonaws.com/sites/53d29249e511304c2f000002/theme/images/student-success/success-main.jpg)<br>
 
 [gradescope](https://gradescope.com/)<br>
 Gradescope在2012年在加州伯克利大学以一个边缘性的产品开始运行，制作一个帮助科学系和工程系教授和助理批改卷面试题的软件，允许用户为每个考试问题印上红色标记，并且只需点击鼠标即可标记一般错题，同时不断规范评分标准。用户将考题上传至平台，管理员在线评分并将分数报告返还给学生。
