@@ -79,3 +79,13 @@
 ## Logging &Monitoring                                                                                                                                        
 ## Visualization                                                                                                                                              
 ## Collaboration
+
+# Data Source & APIs   
+## Health               
+## IoT                  
+## Financial & Economic Data                                                                                                                                               
+## Air/Space/Sea                                                                                                                                                          
+## People/Entities                                                                                                                                                        
+## Location Intelligence                                                                                                                                                  
+## Others  
+
