@@ -62,6 +62,10 @@
 >>[英语流利说：像游戏闯关一样练口语](https://baike.baidu.com/tashuo/browse/content?id=d44f4524a03957abe2205ca1&lemmaId=&fromLemmaModule=pcBottom)<br>
 >>[专注AI+的英语流利说终于上市，其为何起个大早赶个晚集 ](https://baike.baidu.com/tashuo/browse/content?id=07a8754d0f5ee59367449695&lemmaId=&fromLemmaModule=pcBottom)<br>
 
+[Knewton](https://www.knewton.com/)<br>
+Knewton 的核心产品是自适应学习工具，目标是为学生提供预测性分析及个性化推荐，根据使用者的学习特点和使用习惯的差异提供实时精确的预测，即时调整内容供应，使教学更加个性化。
+>>[Knewton剖析](https://www.jiemodui.com/O/47282.html)
+
 ## Government （政府）                                                                                                                                    
 ## Real Estate （房地产行业）                                                                                                                             
 ## Finance-Investing （投资）                                                                                                                             
