@@ -224,7 +224,6 @@ Cape Analytics公司建立了一个新的物业分析类别，所提供数据的
 
 >>[透过美国OnDeck，告诉你为什么小微金融不会爆发式增长](http://tech.ifeng.com/a/20171019/44721373_0.shtml)<br>
 
-![OnDeck](http://p0.ifengimg.com/pmop/2017/1019/C6C312CB71661231BE9C2CB29F7F0F3AF5E95759_size21_w640_h740.jpeg)<br>
 
 [拍拍贷](https://www.ppdai.com/)<br>
 拍拍贷-网络借款,民间借贷,小额借款,无抵押借款,信用借款,网络借贷<br>
