@@ -234,6 +234,11 @@ Cape Analytics公司建立了一个新的物业分析类别，所提供数据的
 拍拍贷-借款出借平台
 拍拍贷（ppdai.com）-美国纽交所上市企业，中国互联网金融协会理事单位，专注信用借款和出借服务11年，服务注册用户千万。资金流转透明，注册资本10亿元。
 
+![工作原理](https://static.ppdaicdn.com/dist/img/howworks_1.10f7675.jpg)<br>
+
+>>[拍拍贷成功的将自己给玩死了，“老赖”们功不可没](http://k.sina.com.cn/article_6440841820_17fe7725c0010074m3.html)<br>
+
+
 ## Insurance （保险）                                                                                                                                     
 ## Healthcare （卫生保健）                                                                                                                                
 ## Life Sciences （生命科学？）                                                                                                                           
