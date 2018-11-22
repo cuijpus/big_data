@@ -268,7 +268,20 @@ Upstart平台认为，用户的教育、工作历史能在一定程度上预示�
 >>[新兴借贷平台 Insikt 向企业引入“贷款即服务”业务](https://techcrunch.cn/2014/12/12/insikt-introduces-lending-as-a-service-for-brands/?ncid=rss)<br>
 ![放贷管理](https://www.insikt.com/assets/img/uploads/2015/04/performance_tracking.png)<br>
 
-
+[100Credit](http://www.100credit.com/)<br>
+百融(北京)金融信息服务股份有限公司(简称“百融金服”),是一家利用大数据技术为金融行业用户提供包括贷前营销获客、贷中管控以及贷后管理在内的客户。<br>
+![现出原形](http://www.100credit.com/upload/focus/2018-09-13/09305881.jpg)<br>
+![风控引擎](http://www.100credit.com/images/ai.png)<br>
+方案：
+1、营销：线上线下各种方式引流。
+2、反欺诈：在新增用户申请端即进行欺诈风险甄别，对有欺诈风险的用户 一票否决。
+3、风险评估：针对信用卡申请用户进行评估，在控制风险的前提下提升申 请用户过线率，以降低营销成本并增加有效发卡量。
+4、价值增值：挖掘有分期付款及透支习惯的客户特点，提升存量客户价值。
+5、失联催收：跟踪关注类用户行为轨迹，适时预警，并在逾期失联后以恰 当方式进行催收。
+6、官网管理：了解官网用户情况及网站运营情况
+ 
+在商业银行的业务流程上，百融介入的环节和方式如图:
+![方案](http://www.100credit.com/upload/editor/img/2015-08-25/18125857.png)<br>
 
 ## Insurance （保险）                                                                                                                                     
 ## Healthcare （卫生保健）                                                                                                                                
