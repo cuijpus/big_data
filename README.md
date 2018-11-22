@@ -242,6 +242,21 @@ Cape Analytics公司建立了一个新的物业分析类别，所提供数据的
 [宜人贷](https://www.yirendai.com/)<br>
 >>[宜人贷测评:一年赚13亿的上市平台 收益率偏低](https://www.wdzj.com/news/yc/2197871.html)<br>
 
+[Kreditech](https://www.kreditech.com/)<br>
+>>[德国消费金融公司Kreditech融资1000万欧元 提供借贷服务](http://www.ctsbw.com/article/10286.html)<br>
+>>[用大数据分析信用](https://www.sohu.com/a/139764524_118792)<br>
+
+[Avant](https://www.avant.com/)<br>
+
+[zestFinance](https://www.zestfinance.com/)<br>
+公司使命是为每一个人创造公平而且透明的信用信息，进而帮助他们实现享受正常金融服务的权利。<br>
+ZestFinance ，美国金融科技公司，主要要做的是将机器学习与大数据分析融合起来，提供更加精准的信用评分。<br>
+![如何工作？]（https://5b0988e595225.cdn.sohucs.com/images/20171120/4aaab30b617f41d7b1e4f94d041811b7.jpg）<br>
+>>[ZestFinance用大数据颠覆传统征信业](https://wenku.baidu.com/view/33c8df01443610661ed9ad51f01dc281e43a5648.html)<br>
+>>[互联网金融公司为啥敢把钱借给没有征信记录的穷人？](https://www.sohu.com/a/205451743_116182)<br>
+>>[京东和百度同时看中的美国金融科技公司ZestFinance，到底有何过人之处？](https://www.cyzone.cn/article/150103.html)<br>
+>>[京东金融与ZestFinance成立的合资公司ZRobot落地](http://tech.sina.com.cn/i/2016-11-03/doc-ifxxneua3989375.shtml)<br>
+
 
 ## Insurance （保险）                                                                                                                                     
 ## Healthcare （卫生保健）                                                                                                                                
