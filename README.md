@@ -262,6 +262,10 @@ Upstart平台认为，用户的教育、工作历史能在一定程度上预示�
 ![放贷](https://www.upstart.com/webpack/production/invest/browse_loans-d71faab8b6f96909fa5350f6b7dd2ef3.png)<br>
 >>[Upstart 联合创始人Paul Gu：未来会大力发展“借贷即服务” ](http://www.sohu.com/a/165320667_649029)<br>
 
+[Insikt](https://www.insikt.com/#/)<br>
+>>[|为信用低的人群提供贷款，美国“贷款即服务”平台INSIKT完成D轮融资](https://www.01caijing.com/article/19477.htm)<br>
+>>[美国低收入人群贷款服务INSIKT完成5000万美元融资](http://tech.qq.com/a/20171214/020404.htm)<br>
+>>[新兴借贷平台 Insikt 向企业引入“贷款即服务”业务](https://techcrunch.cn/2014/12/12/insikt-introduces-lending-as-a-service-for-brands/?ncid=rss)<br>
 
 ## Insurance （保险）                                                                                                                                     
 ## Healthcare （卫生保健）                                                                                                                                
