@@ -251,7 +251,7 @@ Cape Analytics公司建立了一个新的物业分析类别，所提供数据的
 [zestFinance](https://www.zestfinance.com/)<br>
 公司使命是为每一个人创造公平而且透明的信用信息，进而帮助他们实现享受正常金融服务的权利。<br>
 ZestFinance ，美国金融科技公司，主要要做的是将机器学习与大数据分析融合起来，提供更加精准的信用评分。<br>
-![如何工作？]（https://5b0988e595225.cdn.sohucs.com/images/20171120/4aaab30b617f41d7b1e4f94d041811b7.jpg）<br>
+![如何工作？](https://5b0988e595225.cdn.sohucs.com/images/20171120/4aaab30b617f41d7b1e4f94d041811b7.jpg)<br>
 >>[ZestFinance用大数据颠覆传统征信业](https://wenku.baidu.com/view/33c8df01443610661ed9ad51f01dc281e43a5648.html)<br>
 >>[互联网金融公司为啥敢把钱借给没有征信记录的穷人？](https://www.sohu.com/a/205451743_116182)<br>
 >>[京东和百度同时看中的美国金融科技公司ZestFinance，到底有何过人之处？](https://www.cyzone.cn/article/150103.html)<br>
