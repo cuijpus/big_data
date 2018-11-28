@@ -3,6 +3,9 @@
 # Overview
 ![总览图](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 
+# 行业报告
+
+[大数据白皮书（2018年）](http://www.caict.ac.cn/kxyj/qwfb/bps/201804/P020180418587931723585.pdf)<br>
 
 # Infrastructure (基础设施)
 
